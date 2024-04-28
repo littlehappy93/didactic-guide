@@ -3,3 +3,4 @@
 hello to HUI
 say hello to Cherry
  
+new changes to newfile.txt
